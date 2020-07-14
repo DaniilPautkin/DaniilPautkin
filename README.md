@@ -14,4 +14,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--c9q4Du_e--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://ionicframework.com/blog/wp-content/uploads/2019/02/typescript-in-react.png)
+Skills 🚀
+
+![alt text](E:\_Temporary\Tshirt\React.png)
