@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Professional Skills 🚀
+### Professional Skills 🚀
 
 <div style='display: flex; flex-direction: row; img { margin: 10px }'>
 <img src='https://web-creator.ru/uploads/Page/33/react.svg' height="100" />
