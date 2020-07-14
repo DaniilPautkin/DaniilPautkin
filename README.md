@@ -16,6 +16,8 @@
 -->
 Professional Skills 🚀
 
+<div style='display: flex; flex-direction: row'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' width="150" />
 <img src='https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png' width="100" />
 <img src='https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png' width="100" />
+</div>
