@@ -12,12 +12,18 @@
 <img src='https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png' height="100" />
 </div>
 
+
 ### Have experience in
 
+
 <img src='https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png' height="100" />
+
+
 ### Tools
 
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' height="100" />
+
+
 #### Links
 
 <a href="https://twitter.com/daniilpautkin1">
