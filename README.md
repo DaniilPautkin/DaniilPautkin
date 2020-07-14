@@ -22,8 +22,8 @@
 ### Tools
 
 <div style='display: flex; flex-direction: row; img { margin: 10px }'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' height="100" />
-<img src='https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg' height="100" />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png' height="60" />
+<img src='https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg' height="60" />
 </div>
 
 #### Links
