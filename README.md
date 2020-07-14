@@ -23,7 +23,7 @@
 <img src='https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png' height="100" />
 </div>
 
- Have experience in 🎯
+### Have experience in 🎯
 
-**Tools 🛠**
+### Tools 🛠
 
