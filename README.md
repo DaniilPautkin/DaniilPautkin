@@ -19,5 +19,7 @@
 
 #### Links
 
-<a href="https://twitter.com/daniilpautkin1"> <img src="https://twitter.com/daniilpautkin1" /> </a>
+<a href="https://twitter.com/daniilpautkin1">
+ <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" /> 
+</a>
 
