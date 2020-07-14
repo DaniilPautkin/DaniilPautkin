@@ -16,7 +16,7 @@
 -->
 Skills 🚀
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' width: "100" />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' width="100" />
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png =100px)
 ![alt text](https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png =100px)
 ![alt text](https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png =100px)
