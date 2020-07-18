@@ -20,7 +20,7 @@
 <img src='https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png'
 height="80" />
 <img src='https://miro.medium.com/max/550/1*dqvlaszRLvoPmARpOlLN9A.png'
-height="100" />
+height="100" border-radius='20px' margin='0px 10px 0px 10px' />
 </div>
 
 ### Tools
